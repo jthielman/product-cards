@@ -4,7 +4,7 @@
 This is a page that displays a company's products in a grid of cards.  In this case, the products are hats.
 
 ## Screenshots
-![]()
+![Main View](https://raw.githubusercontent.com/jthielman/product-cards/master/screenshots/main_view.png)
 
 ## How to Run
 - Clone down this project
